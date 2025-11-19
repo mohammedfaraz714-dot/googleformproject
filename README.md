@@ -1,5 +1,11 @@
 The project is a simple Google Form_style wab page built using HTML and CSS.
 The main purpose of this projrct is learning and practicing Web development Basics,including structure,layout,styling,and form elements.
+
+
+
 Technologies used
-*HTML5
-*CSS
+[1]HTML5{html-sheild}
+[2]CSS{css-sheild}
+
+
+[DEMO](http://127.0.0.1:3000/googleformproject/index.html?serverWindowId=fff5f6d7-8202-41dd-8b96-21e097acd264)

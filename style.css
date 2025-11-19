@@ -5,12 +5,12 @@
 #backimg {
     height: 100vh;
     width: 100vw;
-    background: url(/googlepageproject/images/5084510.jpg);
+    background: url(/googleformproject/images/5084510.jpg);
     background-size: cover;
 }
 
 #googleimg {
-    background-image: url(/googlepageproject/images/maingoogle.svg);
+    background-image: url(/googleformproject/images/maingoogle.svg);
     background-size: cover;
     height: 120px;
     width: 370px;
@@ -36,7 +36,7 @@
 
 .search {
     position: absolute;
-    background-image: url(/googlepageproject/images/search.png);
+    background-image: url(/googleformproject/images/search.png);
     left: 10px;
     background-size: cover;
     height: 30px;
