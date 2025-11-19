@@ -7,5 +7,4 @@ Technologies used
 [1]HTML5{html-sheild}
 [2]CSS{css-sheild}
 
-
-[DEMO]:https://googlefor.netlify.app/
+[DEMO]:(https://googlefor.netlify.app/)
